@@ -1,0 +1,19 @@
+
+	.body{
+		
+       width: auto;
+height: 750px;
+border: 1px solid white;
+font-family: nyala;
+padding-left: 20px;
+font-size: 25px;
+margin: auto;
+		background-image: url(../images/back.jpg);
+
+		background-size: 1370px 800px;
+		background-repeat: no-repeat;
+	}
+	.movie{
+		font-family: nyala;
+		margin: auto;
+	}
